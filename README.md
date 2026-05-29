@@ -119,11 +119,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 NEXT_PUBLIC_ADMIN_PASSWORD=your_admin_password
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
+##  Author
 
 Created for Royal Events Udaipur.
 ```
