@@ -51,5 +51,11 @@ Thumbs.db
 # Vercel
 .vercel
 
+# Supabase
+supabase/.env
+supabase/config.toml
+supabase/.branches/
+supabase/.temp/
+
 # Local overrides
 local.env
